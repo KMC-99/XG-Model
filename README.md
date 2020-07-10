@@ -1,2 +1,2 @@
 # XG-Model
-This is an attempt to create and expected goals model give hockey shot statistics. 
+This is a very simple example of an expected goals model in hockey using a logistic regression.
